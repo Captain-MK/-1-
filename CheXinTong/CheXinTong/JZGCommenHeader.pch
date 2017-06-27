@@ -1,0 +1,34 @@
+//
+//  JZGCommenHeader.pch
+//  JZGERP
+//
+//  Created by jzg on 16/6/23.
+//  Copyright © 2016年 jzg. All rights reserved.
+//
+
+#ifndef JZGCommenHeader_pch
+#define JZGCommenHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import "JZGDefines.h"
+#import "AFNetworking.h"
+#import "JZGCategories.h"
+#import "UIImageView+WebCache.h"
+#import "Masonry.h"
+#import "MBProgressHUD.h"
+#import "JZGCommenTool.h"
+#import "JZGInterface.h"
+#import "JZGBaseViewController.h"
+#import "JZGDeviceDefines.h"
+#import "FMDB.h"
+#import "CommonMethods.h"
+#import "JZGPhotoManagerTool.h"
+//#import "JZGSPServiceBaseDataModel.h"
+#import "UIImageView+AFNetworking.h"
+#import "ReactiveObjC.h"
+#import <YYKit/YYKit.h>
+
+#endif /* JZGCommenHeader_pch */
